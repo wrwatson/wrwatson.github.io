@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Lunar Eclipse"
+date:   2018-02-01
+tags: thailand chiang-mai
+location: Chiang Mai, Thailand
+map: https://goo.gl/maps/tkZVAnepMUW8sTBt6
+---
+Watching the lunar eclipse from the rooftop at Greenhill Place.
+
+![The moon](/photos/chiang-mai/moon.jpg)

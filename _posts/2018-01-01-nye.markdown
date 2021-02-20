@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "New Years Eve"
+date:   2017-12-31
+tags: thailand chiang-mai festival old-city
+location: Tha Phae Gate, Chiang Mai, Thailand
+map: https://goo.gl/maps/DS4FHihSVrf8Mze87
+---
+Started to explore Chiang Mai.
+Found a great supermarket at Maya shopping mall and tried some street food.
+
+Outside Tha Phae gate, one of the gates into the old city,
+lit lanterns to bring in the new year.
+
+![Will launching a lantern](/photos/chiang-mai/will-lantern.jpg)
+
+<video controls muted="true" width="525" src="/photos/chiang-mai/lanterns.mov">

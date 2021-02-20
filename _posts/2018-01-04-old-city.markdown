@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Wat Chedi Luang and Mae Ping River"
+date:   2018-01-04
+tags: thailand chiang-mai old-city
+location: Chiang Mai, Thailand
+map: https://goo.gl/maps/pKJdsmDgietMWPuo6
+---
+Explored Chiang Mai old city, and across to the Mae Ping River.
+Visited Wat Chedi Luang and lit some candles for luck.
+
+![Will lighting a prayer candle](/photos/chiang-mai/will-candle.jpg)
+
+![Mae Ping River](/photos/chiang-mai/mae-ping.jpg)
+
+![Wat Chedi Luang](/photos/chiang-mai/wat.jpg)

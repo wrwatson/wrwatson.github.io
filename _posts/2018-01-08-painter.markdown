@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Dangerous Painting"
+date:   2018-01-08
+tags: thailand chiang-mai danger
+location: Chiang Mai, Thailand
+map: https://goo.gl/maps/zVCdqej75m8wBm5u6
+---
+I'm on the 9th floor. Guys next door are painting the building. No harness.
+
+![Man suspended 9 floors on rope](/photos/chiang-mai/painter.jpg)
