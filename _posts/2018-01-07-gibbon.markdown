@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Flight of the Gibbon"
+date:   2018-01-07
+tags: thailand chiang-mai adventure
+location: Flight of the Gibbon, Chiang Mai, Thailand
+map: https://g.page/FlightOfTheGibbonCM?share
+---
+Ziplined at Flight of the Gibbon.
+
+![Before we depart](/photos/chiang-mai/gibbon.jpg)
+
+<video controls muted="true" width="600" src="/photos/chiang-mai/will-gibbon.mov">
