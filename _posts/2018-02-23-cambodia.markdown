@@ -2,14 +2,17 @@
 layout: post
 title:  "Cambodia"
 date:   2018-02-23
-tags: cambodia fishing-village wildlife historic-building
+tags: cambodia fishing-village wildlife historic-building food
 location: Siem Reap, Cambodia
 map: https://goo.gl/maps/5CJyhZxS3S6awuF2A
 ---
-A long weekend in Cambodia to visit Siem Reap, Ankor Wat and surrounding temples.
+A long weekend in Cambodia to visit
+a [floating fishing village](#floating-fishing-village),
+[Ankor Wat](#ankor-wat)
+and try frogs on a [food tour](#food-tour).
 
-Floating Fishing Village Tour
-=============================
+Floating Fishing Village
+========================
 
 ![Fishing Village](/photos/cambodia/fishing-village-1.jpg)
 Tour to a fishing village on stilts.
@@ -21,8 +24,8 @@ Handing out school supplies
 This small crocodile was trapped in one of the nets near the village.
 It was stunned with a battery and taken away.
 
-Ankor Wat and surrounding temples
-=================================
+Ankor Wat
+=========
 
 ![Pool of reflections](/photos/cambodia/ankor1.jpg)
 Pool of reflections at sunrise
@@ -41,3 +44,18 @@ Stone temple carvings
 
 ![Nature taking over](/photos/cambodia/ankor7.jpg)
 Nature starts to take over
+
+Food Tour
+=========
+
+![Market BBQ](/photos/cambodia/food1.jpg)
+Market BBQ
+
+![Market stall](/photos/cambodia/food2.jpg)
+Market stall
+
+![Stuffed frog](/photos/cambodia/frog.jpg)
+BBQ stuffed frog, pork ribs and chicken
+
+![Cambodia dessert](/photos/cambodia/crushed-ice.jpg)
+Crushed ice, coconut milk, condensed milk, sticky rice and Cambodian cake balls
