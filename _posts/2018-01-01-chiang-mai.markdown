@@ -1,0 +1,83 @@
+---
+layout: post
+title:  "Chiang Mai"
+date:   2017-12-31
+tags: thailand chiang-mai festival old-city
+location: Chiang Mai, Thailand
+map: https://goo.gl/maps/DS4FHihSVrf8Mze87
+---
+
+New Years Eve
+=============
+Outside Tha Phae gate, one of the gates into the old city,
+lit lanterns to bring in the new year and two years of adventures.
+
+![Will launching a lantern](/photos/chiang-mai/will-lantern.jpg)
+
+<video controls muted="true" width="525" src="/photos/chiang-mai/lanterns.mov">
+</video>
+
+Old City
+========
+Explored Chiang Mai old city, and across to the Mae Ping River.
+Visited Wat Chedi Luang and lit some candles for luck.
+
+![Will lighting a prayer candle](/photos/chiang-mai/will-candle.jpg)
+
+![Mae Ping River](/photos/chiang-mai/mae-ping.jpg)
+
+![Wat Chedi Luang](/photos/chiang-mai/wat.jpg)
+
+Food and Drink
+==============
+Chiang Mai has world class food.
+
+![Will eating sweet bun with pea jam](/photos/chiang-mai/night-market.jpg)
+Night market for dinner. Delicious meat on a stick, sweet buns with pea jam,
+Chiang Mai sausages, spinach squares and fresh pineapple.
+
+![Drinking](/photos/chiang-mai/beer.jpg)
+Saturday night drinking beer at our local (Beer Lab Chiangmai).
+
+![kombi](/photos/chiang-mai/kombi.jpg)
+This converted Kombi sells delicious Larb and other Thai street food.
+
+Flight of the Gibbon
+====================
+Ziplined at Flight of the Gibbon.
+
+![Before we depart](/photos/chiang-mai/gibbon.jpg)
+
+<video controls muted="true" width="600" src="/photos/chiang-mai/will-gibbon.mov">
+</video>
+
+Dangerous Painting
+==================
+I'm on the 9th floor. Guys next door are painting the building. No harness.
+
+![Man suspended 9 floors on rope](/photos/chiang-mai/painter.jpg)
+
+Doi Inthanon - Highest Point in Thailand
+========================================
+![The highest point in Thailand](/photos/chiang-mai/top-of-thailand.jpg)
+It was a freezing at the highest point in Thailand.  Foggy and 9C.
+
+![Will and Kendall on jungle bridge](/photos/chiang-mai/jungle-bridge.jpg)
+Walking to a village for lunch.
+
+![A green snake](/photos/chiang-mai/green-snake.jpg)
+Probably non-venomous, who knows?
+
+Greenhill Place
+===============
+Our home in Chiang Mai was an apartment complex called Greenhill Place.
+
+![The moon](/photos/chiang-mai/moon.jpg)
+Watching the lunar eclipse from the rooftop at Greenhill Place.
+
+Farewell
+========
+Farewell Chiang Mai. We will miss your friendly people, beautiful weather,
+walkability, numerous Song Taeu, delicious Khao Soi and relaxed feel.
+
+![Kendall in a Song Taeu](/photos/chiang-mai/farewell.jpg)
