@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Hong Kong"
+date: 2013-02-27
+tags: hong-kong city
+location: Hong Kong
+map: https://goo.gl/maps/c8PaRvsKVg3zQ8MXA
+---
+
+![Kendall with chicken feet](/photos/hong-kong/chicken-feet.jpg)
+Shau Kei Wan street markets - delicious chicken feet!
+
+![Kendall with chicken feet](/photos/hong-kong/happy-valley.jpg)
+Placing some ill-advised bets at Happy Valley racecourse.
