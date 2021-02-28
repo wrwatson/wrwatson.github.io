@@ -42,6 +42,10 @@ Saturday night drinking beer at our local (Beer Lab Chiangmai).
 ![kombi](/photos/chiang-mai/kombi.jpg)
 This converted Kombi sells delicious Larb and other Thai street food.
 
+![garlic bread](/photos/chiang-mai/garlic-bread.jpg)
+
+A sneaky garlic bread with our Thai dinner at Chef Peak
+
 Flight of the Gibbon
 ====================
 Ziplined at Flight of the Gibbon.
