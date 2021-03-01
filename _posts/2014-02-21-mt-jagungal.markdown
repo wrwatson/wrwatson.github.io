@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mount Jagungal"
+title:  "Kosciuszko National Park, NSW"
 date:   2014-02-21
 tags: nsw australia hiking malcolm
 location:  Kosciuszko National Park, NSW, Australia

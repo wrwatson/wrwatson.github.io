@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Chiang Mai"
+title:  "Chiang Mai, Thailand"
 date:   2017-12-31
 tags: thailand chiang-mai festival old-city
 location: Chiang Mai, Thailand

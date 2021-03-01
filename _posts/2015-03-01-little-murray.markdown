@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Little Murray, Barrington Tops, NSW"
+title:  "Barrington Tops, NSW"
 date:   2013-03-01
 tags: australia nsw camping barrington-tops hiking malcom
-location: Barrington Tops, NSW, Australia
+location: Little Murray, Barrington Tops, NSW, Australia
 map: https://goo.gl/maps/74FUJwJxQTBkXjRd6
 ---
 
