@@ -79,6 +79,15 @@ Our home in Chiang Mai was an apartment complex called Greenhill Place.
 ![The moon](/photos/chiang-mai/moon.jpg)
 Watching the lunar eclipse from the rooftop at Greenhill Place.
 
+David's Kitchen
+===============
+One of the best restaurants in South East asia,
+and a welcome change from Thai Food every night.
+
+![Will at David's Kitchen](/photos/chiang-mai/davids-kitchen-will.jpg)
+
+![Kendall at  David's Kitchen](/photos/chiang-mai/davids-kitchen-kendall.jpg)
+
 Farewell
 ========
 Farewell Chiang Mai. We will miss your friendly people, beautiful weather,
