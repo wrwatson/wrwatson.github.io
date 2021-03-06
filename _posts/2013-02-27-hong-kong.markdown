@@ -16,6 +16,12 @@ Shau Kei Wan street markets - delicious chicken feet!
 ![Hot Pot](/photos/hong-kong/hot-pot.jpg)
 Korean Hot Pot
 
+![Street](/photos/hong-kong/street.jpg)
+Busy Hong Kong street
+
+![Building](/photos/hong-kong/building.jpg)
+I love this picture
+
 Happy Valley
 ============
 ![Happy Valley](/photos/hong-kong/happy-valley.jpg)
@@ -39,3 +45,9 @@ Chicken skewers with peanut sauce served on a hot plate
 
 ![Beacon Hill](/photos/hong-kong/beacon-hill.jpg)
 Will's old primary school
+
+Jumbo Floating Restaurant
+=========================
+
+![Floating Restaurant](/photos/hong-kong/jumbo.jpg)
+A floating restaurant like I remembered from when I lived in Hong Kong
