@@ -28,6 +28,9 @@ Visited Wat Chedi Luang and lit some candles for luck.
 
 ![Wat Chedi Luang](/photos/chiang-mai/wat.jpg)
 
+![Moboke](/photos/chiang-mai/mobike.jpg)
+We used these hire bikes to get around Chiang Mai
+
 Food and Drink
 ==============
 Chiang Mai has world class food.
