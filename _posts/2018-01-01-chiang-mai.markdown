@@ -7,6 +7,7 @@ location: Chiang Mai, Thailand
 map: https://goo.gl/maps/DS4FHihSVrf8Mze87
 ---
 
+
 New Years Eve
 =============
 Outside Tha Phae gate, one of the gates into the old city,
@@ -17,16 +18,21 @@ lit lanterns to bring in the new year and two years of adventures.
 <video controls muted="true" width="525" src="/photos/chiang-mai/lanterns.mov">
 </video>
 
-Old City
-========
+Old City, Wats and Temples
+=============================
 Explored Chiang Mai old city, and across to the Mae Ping River.
-Visited Wat Chedi Luang and lit some candles for luck.
 
 ![Will lighting a prayer candle](/photos/chiang-mai/will-candle.jpg)
+Visited Wat Chedi Luang and lit some candles for luck.
 
 ![Mae Ping River](/photos/chiang-mai/mae-ping.jpg)
+The Mae Ping river
 
 ![Wat Chedi Luang](/photos/chiang-mai/wat.jpg)
+Wat Chedi Luang
+
+![Wat Jed Yod](/photos/chiang-mai/wat-jed-yod.jpg)
+Wat Jed Yod was near our apartment and was not a tourist attraction
 
 ![Moboke](/photos/chiang-mai/mobike.jpg)
 We used these hire bikes to get around Chiang Mai
@@ -46,8 +52,16 @@ Saturday night drinking beer at our local (Beer Lab Chiangmai).
 This converted Kombi sells delicious Larb and other Thai street food.
 
 ![garlic bread](/photos/chiang-mai/garlic-bread.jpg)
-
 A sneaky garlic bread with our Thai dinner at Chef Peak
+
+David's Kitchen is one of the best restaurants in South East asia,
+and a welcome change from Thai Food every night.
+
+![Will at David's Kitchen](/photos/chiang-mai/davids-kitchen-will.jpg)
+Will at David's Kitchen
+
+![Kendall at  David's Kitchen](/photos/chiang-mai/davids-kitchen-kendall.jpg)
+Kendall at David's Kitchen
 
 Flight of the Gibbon
 ====================
@@ -81,15 +95,6 @@ Our home in Chiang Mai was an apartment complex called Greenhill Place.
 
 ![The moon](/photos/chiang-mai/moon.jpg)
 Watching the lunar eclipse from the rooftop at Greenhill Place.
-
-David's Kitchen
-===============
-One of the best restaurants in South East asia,
-and a welcome change from Thai Food every night.
-
-![Will at David's Kitchen](/photos/chiang-mai/davids-kitchen-will.jpg)
-
-![Kendall at  David's Kitchen](/photos/chiang-mai/davids-kitchen-kendall.jpg)
 
 Farewell
 ========
