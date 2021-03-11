@@ -34,6 +34,9 @@ Wat Chedi Luang
 ![Wat Jed Yod](/photos/chiang-mai/wat-jed-yod.jpg)
 Wat Jed Yod was near our apartment and was not a tourist attraction
 
+![Snakes for sale](/photos/chiang-mai/snakes.jpg)
+Wat Jed Yod is a temple for those born in the year of the snake
+
 ![Moboke](/photos/chiang-mai/mobike.jpg)
 We used these hire bikes to get around Chiang Mai
 
@@ -60,8 +63,16 @@ and a welcome change from Thai Food every night.
 ![Will at David's Kitchen](/photos/chiang-mai/davids-kitchen-will.jpg)
 Will at David's Kitchen
 
-![Kendall at  David's Kitchen](/photos/chiang-mai/davids-kitchen-kendall.jpg)
+![Kendall at David's Kitchen](/photos/chiang-mai/davids-kitchen-kendall.jpg)
 Kendall at David's Kitchen
+
+<video controls muted="true" width="525" src="/photos/chiang-mai/shots.mov">
+</video>
+Andrew drinking shots at a rooftop bar
+
+<video controls muted="true" width="525" src="/photos/chiang-mai/unicorn-poo.mov">
+</video>
+Andrew ordering Unicorn Poo, sometime after the shots
 
 Flight of the Gibbon
 ====================
@@ -71,6 +82,16 @@ Ziplined at Flight of the Gibbon.
 
 <video controls muted="true" width="600" src="/photos/chiang-mai/will-gibbon.mov">
 </video>
+
+Sticky Waterfall
+================
+None of these rocks were slippery
+
+![Hayley at Sticky Waterfall](/photos/chiang-mai/hayley-sticky-waterfall.jpg)
+Hayley at Sticky Waterfall
+
+![Will at Sticky Waterfall](/photos/chiang-mai/will-sticky-waterfall.jpg)
+Will at Sticky Waterfall
 
 Dangerous Painting
 ==================
