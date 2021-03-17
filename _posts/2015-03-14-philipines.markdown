@@ -11,8 +11,14 @@ map: https://goo.gl/maps/4h28PfRTEPbNzyzx8
 ![Fish](/photos/philippines/fish.jpg)
 Fish feeding frenzy
 
+Market Visits
+=============
+
 ![Kendall at a market](/photos/philippines/market.jpg)
-Kendall at a market
+Kendall at a market outside of Manila
+
+![Puerto Princessa Market](/photos/philippines/market2.jpg)
+Market in Puerto Princesa, Palawan Island
 
 Intramuros
 ==========
