@@ -1,0 +1,16 @@
+---
+layout: post
+title:  Vietnam
+date:   2018-03-18
+tags: vietnam
+location: Vietnam
+map: https://goo.gl/maps/ks4rHsJdPdCiF7gh9
+---
+
+Vietnam from South to North
+
+Ho Chi Minh City
+================
+
+![Ho Chi Minh City](/photos/vietnam/ho-chi-minh-city.jpg)
+View from our apartment in Ho Chi Minh City
