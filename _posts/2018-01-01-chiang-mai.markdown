@@ -119,6 +119,12 @@ Our home in Chiang Mai was an apartment complex called Greenhill Place.
 ![The moon](/photos/chiang-mai/moon.jpg)
 Watching the lunar eclipse from the rooftop at Greenhill Place.
 
+![Squirrel](/photos/chiang-mai/squirrel.jpg)
+Squirrels roamed the trees outside our 3rd floor apartment
+
+![Doi Suthep at sunset](/photos/chiang-mai/sunset-beers.jpg)
+Most days we had beers as the sun set behind Doi Suthep
+
 Farewell
 ========
 Farewell Chiang Mai. We will miss your friendly people, beautiful weather,
