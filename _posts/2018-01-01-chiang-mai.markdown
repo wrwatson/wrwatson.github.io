@@ -15,6 +15,8 @@ lit lanterns to bring in the new year and two years of adventures.
 
 ![Will launching a lantern](/photos/chiang-mai/will-lantern.jpg)
 
+![Kendall launching a lantern](/photos/chiang-mai/kendall-lantern.jpg)
+
 <video controls muted="true" width="525" src="/photos/chiang-mai/lanterns.mov">
 </video>
 
