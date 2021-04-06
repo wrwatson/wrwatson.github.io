@@ -46,4 +46,6 @@ Camp Blackman
 ![Campsite](/photos/warrumbungles/camp.jpg)
 Our site at Camp Blackman.
 First use of the new camping table and awning.
-Many kangaroos.
+
+![Kangaroo near out tent](/photos/warrumbungles/kangaroo.jpg)
+There are many kangaroos are Camp Blackman.
