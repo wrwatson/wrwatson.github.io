@@ -46,3 +46,9 @@ Atop the Volcano
 
 ![Taal Volcano](/photos/philippines/pano.jpg)
 One of the attractions was hitting golf balls into the caldera
+
+Palawan
+=======
+
+![Sabang](/photos/philippines/sabang-palawan.jpg)
+Sabang, Palawan near the underground river
