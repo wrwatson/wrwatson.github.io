@@ -7,7 +7,7 @@ location: South Africa
 map: https://goo.gl/maps/ZEEp5bRy8dq9qz18A
 ---
 
-The graden route from Capetown or Port Elizabeth,
+The Garden route from Capetown or Port Elizabeth,
 and a safari in Kruger National Park.
 
 <iframe
